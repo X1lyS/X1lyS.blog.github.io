@@ -4,10 +4,10 @@ owner               : "X1ly?S"
 url                : "https://X1ly?S.github.io"
 baseurl            : "/X1ly?S"
 permalink           : /:title/
-description         : "The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries."
+description         : "It's not because we can, that we do; but because we do, that we can."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+statement           : ""
+bgtext              : "rce @_POST['cmd'] select <?php> <script> 101010101010 xss upload eval() shell" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
@@ -15,17 +15,19 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "posts",
-    "math",
-    "album",
-    "physics",
-    "biology",
-    "finance",
-    "physics",
-    "my_notes",
-    "portfolio",
+    "linux",
+    "python",
+    "php",
+    "java",
+    "javascript",
+    "html",
+    "css",
+    "c",
+    "web security"
+    
   ]
 collections:
-  math:   
+  linux:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
