@@ -1,8 +1,8 @@
 # 1. Site Settings
 title               : hack notes
 owner               : "X1ly?S"
-url                : "https://akiritsu.github.io"
-baseurl            : "/pRoJEct-VeXEd"
+url                : "https://x1lys.github.io/X1lyS.blog.github.io/"
+baseurl            : "/X1lyS"
 permalink           : /:title/
 description         : "The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries."
 markdown            : kramdown
@@ -14,52 +14,54 @@ bgtext              : "$_POST['cmd']<?php>getshell<script>eval()GIF89a'1024'sele
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
-    "posts",
-    "math",
-    "album",
-    "physics",
-    "biology",
-    "finance",
-    "physics",
-    "my_notes",
-    "portfolio",
+    "Fundamentals of Network Protocols",
+    "Basics of Operating Systems",
+    "Programming Languages",
+    "OWASP TOP 10",
+    "tools",
+    "Dvwa",
+    "labs",
+    "ctf wp",
+    "Penetration Testing",
+    "Internal Network Penetration Testing",
+    "experience"
   ]
 collections:
-  math:   
+  Fundamentals of Network Protocols:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "Mathematics"
-  portfolio:
+    alias           : "Fundamentals of Network Protocols"
+  Basics of Operating Systems:
     output          : true
     permalink       : /:collection/:title/
     order: # specify post order manually
       - portfolio3.md
       - portfolio2.md
       - portfolio1.md
-  album:
+  Programming Languages:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-  physics:
+  OWASP TOP 10:
     output          : true
     permalink       : /:collection/:title/
-  biology:
+  tools:
     output          : true
     permalink       : /:collection/:title/
-  finance:
+  Dvwa:
     output          : true
     permalink       : /:collection/:title/
-  my_notes:
+  lads:
     output          : true
     permalink       : /:collection/:title/
     # An alias should be given or the UNDERSCORE will appeared 
-    alias           : "My Notes"
-  posts:
+    alias           : "labs"
+  :
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : X1ly?S
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -84,17 +86,10 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
-linkedin            : 
-github              : "just-test" 
-gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
-twitter             : "just-test"
-facebook            : "just-test"
-instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
-weibo               :
+email               : "2382247834@qq.com" 
+github              : "X1ly?S" 
+website             : "https://x1lys.github.io/X1lyS.blog.github.io/"
+
       
 # 6. Where things are
 source              : .
