@@ -16,30 +16,28 @@ collection_order    :
   [
     "Fundamentals of Network Protocols",
     "Basics of Operating Systems",
-    "Programming Languages",
+    "Basics of Operating Systems",
     "OWASP TOP 10",
     "tools",
     "Dvwa",
-    "labs",
-    "ctf wp",
-    "Penetration Testing",
-    "Internal Network Penetration Testing",
-    "experience"
+    "OWASP TOP 10",
+    "my_notes",
+    "portfolio",
   ]
 collections:
-  Fundamentals of Network Protocols:   
+  Basics of Operating Systems:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "Fundamentals of Network Protocols"
-  Basics of Operating Systems:
+    alias           : "Basics of Operating Systemsematics"
+  portfolio:
     output          : true
     permalink       : /:collection/:title/
     order: # specify post order manually
       - portfolio3.md
       - portfolio2.md
       - portfolio1.md
-  Programming Languages:
+  Basics of Operating Systems:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
@@ -52,12 +50,12 @@ collections:
   Dvwa:
     output          : true
     permalink       : /:collection/:title/
-  lads:
+  my_notes:
     output          : true
     permalink       : /:collection/:title/
     # An alias should be given or the UNDERSCORE will appeared 
-    alias           : "labs"
-  :
+    alias           : "My Notes"
+   Fundamentals of Network Protocols:
     output          : true
 
 # 3. Comment settings（disqus.com）
