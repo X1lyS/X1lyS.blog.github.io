@@ -15,7 +15,7 @@ permalink: /
 # The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries
 
 <br>
-> The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries.
+> It's not because we can, that we do; but because we do, that we can.
 
 ## Features
 
