@@ -1,13 +1,13 @@
 # 1. Site Settings
-title               : pRoJEct-VeXEd
-owner               : "DeerRIDER"
+title               : hack notes
+owner               : "X1ly?S"
 url                : "https://akiritsu.github.io"
 baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+statement           : ""
+bgtext              : "$_POST['cmd']<?php>getshell<script>eval()GIF89a'1024'select and 1=2xss rce xxs sqlmap" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
