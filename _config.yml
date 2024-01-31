@@ -15,7 +15,7 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "posts",
-    "math",
+    "Fundamentals of network protocols",
     "album",
     "physics",
     "biology",
@@ -25,7 +25,7 @@ collection_order    :
     "portfolio",
   ]
 collections:
-  math:   
+  Fundamentals of network protocols:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
