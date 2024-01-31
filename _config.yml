@@ -68,7 +68,7 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-gitlab              : "https://github.com/X1lyS"
+github              : "https://github.com/X1lyS"
 website             : "https://x1lys.github.io/X1lyS.blog.github.io/"
 # 6. Where things are
 source              : .
