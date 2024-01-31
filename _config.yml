@@ -16,7 +16,7 @@ collection_order    :
   [
     "posts",
     "Fundamentals of network protocols",
-    "album",
+    "Fundamentals of operating systems",
     "physics",
     "biology",
     "finance",
@@ -28,7 +28,6 @@ collections:
   Fundamentals of network protocols:   
     output          : true
     permalink       : /:collection/:title/
-    order:
   portfolio:
     output          : true
     permalink       : /:collection/:title/
@@ -36,10 +35,9 @@ collections:
       - portfolio3.md
       - portfolio2.md
       - portfolio1.md
-  album:
+  Fundamentals of operating systems:
     output          : true
     permalink       : /:collection/:title/
-    sort_by         : date
   physics:
     output          : true
     permalink       : /:collection/:title/
