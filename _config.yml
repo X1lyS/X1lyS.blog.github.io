@@ -19,15 +19,15 @@ collection_order    :
     "Fundamentals of operating systems",
     "Fundamentals of programming languages",
     "OWASP TOP 10",
-    "DVWA",
+    "Web Security",
     "Labs",
     "Burp Labs",
-    "CTF",
+    "Hack!",
     "vulnerability discovery",
     "Penetration testing",
     "Internal network penetration",
-    "Summary",
-    "others"
+    "Penetration testing",
+    "Summary"
   ]
 collections:
   Fundamentals of network protocols:   
@@ -45,7 +45,7 @@ collections:
   OWASP TOP 10:
     output          : true
     permalink       : /:collection/:title/
-  DVWA:
+  Web Security:
     output          : true
     permalink       : /:collection/:title/
   Labs:
@@ -54,7 +54,7 @@ collections:
   Burp Labs:
     output          : true
     permalink       : /:collection/:title/
-  CTF:
+  Hack!:
     output          : true
     permalink       : /:collection/:title/
   vulnerability discovery:
@@ -66,13 +66,13 @@ collections:
   Internal network penetration:
     output          : true
     permalink       : /:collection/:title/
+  Penetration testing:
+    output          : true
+    permalink       : /:collection/:title/
   Summary:
     output          : true
     permalink       : /:collection/:title/
-  others:
-    output          : true
-    permalink       : /:collection/:title/
-    
+
   posts:
     output          : true
 
@@ -132,7 +132,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-mermaid
 
-# 8. Others
+# 8. Summary
 # Cross-Origin Resource Sharing header
 webrick:
   headers:
