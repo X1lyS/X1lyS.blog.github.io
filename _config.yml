@@ -47,7 +47,7 @@ collections:
     permalink       : /:collection/:title/
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : X1ly?S
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
