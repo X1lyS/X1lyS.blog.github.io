@@ -18,39 +18,61 @@ collection_order    :
     "Fundamentals of network protocols",
     "Fundamentals of operating systems",
     "Fundamentals of programming languages",
-    "test",
-    "test",
-    "my_notes",
-    "portfolio",
+    "OWASP TOP 10",
+    "DVWA",
+    "Labs",
+    "Burp Labs",
+    "CTF",
+    "vulnerability discovery",
+    "Penetration testing",
+    "Internal network penetration",
+    "Summary",
+    "others"
   ]
 collections:
   Fundamentals of network protocols:   
     output          : true
     permalink       : /:collection/:title/
-  portfolio:
-    output          : true
-    permalink       : /:collection/:title/
-    order: # specify post order manually
-      - portfolio3.md
-      - portfolio2.md
-      - portfolio1.md
   Fundamentals of operating systems:
     output          : true
     permalink       : /:collection/:title/
   Fundamentals of programming languages:
     output          : true
     permalink       : /:collection/:title/
-  biology:
+  Fundamentals of programming languages:
     output          : true
     permalink       : /:collection/:title/
-  test:
+  OWASP TOP 10:
     output          : true
     permalink       : /:collection/:title/
-  my_notes:
+  DVWA:
     output          : true
     permalink       : /:collection/:title/
-    # An alias should be given or the UNDERSCORE will appeared 
-    alias           : "My Notes"
+  Labs:
+    output          : true
+    permalink       : /:collection/:title/
+  Burp Labs:
+    output          : true
+    permalink       : /:collection/:title/
+  CTF:
+    output          : true
+    permalink       : /:collection/:title/
+  vulnerability discovery:
+    output          : true
+    permalink       : /:collection/:title/
+  Penetration testing:
+    output          : true
+    permalink       : /:collection/:title/
+  Internal network penetration:
+    output          : true
+    permalink       : /:collection/:title/
+  Summary:
+    output          : true
+    permalink       : /:collection/:title/
+  others:
+    output          : true
+    permalink       : /:collection/:title/
+    
   posts:
     output          : true
 
