@@ -29,7 +29,6 @@ collections:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "Mathematics"
   portfolio:
     output          : true
     permalink       : /:collection/:title/
