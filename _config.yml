@@ -14,7 +14,7 @@ bgtext              : "100100101110110111011000101010100110111010010110100101011
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
-    "posts",
+    "Posts",
     "Security",
     "Labs",
     "CTF",
@@ -38,9 +38,9 @@ collections:
   Summary:
     output          : true
     permalink       : /:collection/:title/
-  
-  posts:
+  Posts:
     output          : true
+    permalink       : /:collection/:title/
 
 # 3. Comment settings（disqus.com）
 disqus_username     : akiritsu
