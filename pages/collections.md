@@ -6,8 +6,8 @@ collections:
   - Fundamentals of network protocols
   - Fundamentals of operating systems
   - Fundamentals of programming languages
-  - biology
-  - finance
+  - test
+  - test
   - my_notes
   - portfolio
 ---

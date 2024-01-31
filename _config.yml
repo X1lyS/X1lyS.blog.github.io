@@ -18,8 +18,8 @@ collection_order    :
     "Fundamentals of network protocols",
     "Fundamentals of operating systems",
     "Fundamentals of programming languages",
-    "biology",
-    "finance",
+    "test",
+    "test",
     "my_notes",
     "portfolio",
   ]
@@ -43,7 +43,7 @@ collections:
   biology:
     output          : true
     permalink       : /:collection/:title/
-  finance:
+  test:
     output          : true
     permalink       : /:collection/:title/
   my_notes:
