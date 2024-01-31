@@ -14,17 +14,34 @@ bgtext              : "100100101110110111011000101010100110111010010110100101011
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
-    "Posts",
-    "PL",
-    "Security",
+    "Environment Setup and Other Configurations",
+    "Network Protocol Fundamentals",
+    "Programming Language Basics",
+    "Operating System Basics",
+    "OWASP TOP 10",
     "Labs",
     "CTF",
+    "Penetration Testing",
+    "Internal Network Penetration",
     "Hack",
-    "Summary"
+    "Personal Experience and Insights",
+    "Others"
   ]
 collections:
 
-  Security:
+  Environment Setup and Other Configurations:
+    output          : true
+    permalink       : /:collection/:title/
+  Network Protocol Fundamentals:
+    output          : true
+    permalink       : /:collection/:title/
+  Operating System Basics:
+    output          : true
+    permalink       : /:collection/:title/
+  Programming Language Basics:
+    output          : true
+    permalink       : /:collection/:title/  
+  OWASP TOP 10:
     output          : true
     permalink       : /:collection/:title/
   Labs:
@@ -33,18 +50,21 @@ collections:
   CTF:
     output          : true
     permalink       : /:collection/:title/
+  Penetration Testing:
+    output          : true
+    permalink       : /:collection/:title/
+  Internal Network Penetration:
+    output          : true
+    permalink       : /:collection/:title/
   Hack:
     output          : true
     permalink       : /:collection/:title/
-  Summary:
+  Personal Experience and Insights:
     output          : true
     permalink       : /:collection/:title/
-  PL:
+  Others:
     output          : true
-    permalink       : /:collection/:title/
-  Posts:
-    output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:title/       
 
 # 3. Comment settings（disqus.com）
 disqus_username     : x1ly-s
