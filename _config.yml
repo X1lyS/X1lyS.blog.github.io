@@ -17,10 +17,9 @@ collection_order    :
     "posts",
     "Fundamentals of network protocols",
     "Fundamentals of operating systems",
-    "physics",
+    "Fundamentals of programming languages",
     "biology",
     "finance",
-    "physics",
     "my_notes",
     "portfolio",
   ]
@@ -38,7 +37,7 @@ collections:
   Fundamentals of operating systems:
     output          : true
     permalink       : /:collection/:title/
-  physics:
+  Fundamentals of programming languages:
     output          : true
     permalink       : /:collection/:title/
   biology:
