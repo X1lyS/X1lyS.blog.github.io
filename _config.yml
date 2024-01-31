@@ -15,29 +15,26 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "posts",
-
-    "Web Security",
+    "Security",
     "Labs",
-    "Burp Labs",
+    "CTF",
     "Hack!",
-    
     "Summary"
   ]
 collections:
 
-  Web Security:
+  Security:
     output          : true
     permalink       : /:collection/:title/
   Labs:
     output          : true
     permalink       : /:collection/:title/
-  Burp Labs:
+  CTF:
     output          : true
     permalink       : /:collection/:title/
   Hack!:
     output          : true
     permalink       : /:collection/:title/
-
   Summary:
     output          : true
     permalink       : /:collection/:title/
