@@ -6,8 +6,8 @@ baseurl            : "/X1lyS.blog.github.io"
 permalink           : /:title/
 description         : "X1ly?S Blog."
 markdown            : kramdown
-statement           : "!hack!"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+statement           : "X1ly?S"
+bgtext              : "1001001011101101110110001010101001101110100101101001010110001111" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
@@ -68,7 +68,7 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-github              : "/X1lyS"
+github              : "X1lyS"
 website             : "https://x1lys.github.io/X1lyS.blog.github.io/"
 # 6. Where things are
 source              : .
