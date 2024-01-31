@@ -1,12 +1,12 @@
 # 1. Site Settings
-title               : X1ly?S Blog
-owner               : "X1ly?S"
-url                : "https://x1lys.github.io/X1lyS.blog.github.io/"
+title               : pRoJEct-VeXEd
+owner               : "DeerRIDER"
+url                : "https://akiritsu.github.io"
 baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
-description         : "The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries."
+description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
-statement           : " "
+statement           : "Designed by DeerRIDER, All Rights Reserved"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
@@ -59,7 +59,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : X1ly?S
+disqus_username     : akiritsu
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -84,10 +84,17 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "2382247834@qq.com" 
-github              : "X1ly?S" 
-website             : "https://x1lys.github.io/X1lyS.blog.github.io/"
-
+email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
+linkedin            : 
+github              : "just-test" 
+gitlab              : 
+website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
+twitter             : "just-test"
+facebook            : "just-test"
+instagram           : 
+youtube             : "just-test"
+steam               : "just-test"
+weibo               :
       
 # 6. Where things are
 source              : .
@@ -105,7 +112,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-mermaid
+  
+gems: [jekyll-mermaid]
 
 # 8. Others
 # Cross-Origin Resource Sharing header
