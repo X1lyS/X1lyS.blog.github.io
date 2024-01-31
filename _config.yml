@@ -18,7 +18,7 @@ collection_order    :
     "Security",
     "Labs",
     "CTF",
-    "Hack!",
+    "Hack",
     "Summary"
   ]
 collections:
@@ -32,7 +32,7 @@ collections:
   CTF:
     output          : true
     permalink       : /:collection/:title/
-  Hack!:
+  Hack:
     output          : true
     permalink       : /:collection/:title/
   Summary:

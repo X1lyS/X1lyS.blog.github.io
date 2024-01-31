@@ -7,6 +7,6 @@ collections:
   --Security
   --Labs
   --CTF
-  --Hack!
+  --Hack
   --Summary
 ---
