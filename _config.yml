@@ -15,6 +15,7 @@ bgtext              : "100100101110110111011000101010100110111010010110100101011
 collection_order    : 
   [
     "Posts",
+    "PL",
     "Security",
     "Labs",
     "CTF",
@@ -36,6 +37,9 @@ collections:
     output          : true
     permalink       : /:collection/:title/
   Summary:
+    output          : true
+    permalink       : /:collection/:title/
+  PL:
     output          : true
     permalink       : /:collection/:title/
   Posts:

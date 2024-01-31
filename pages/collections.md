@@ -3,7 +3,8 @@ layout: collections
 toc: false
 permalink: /collections
 collections:
-  --posts
+  --Posts
+  --PL
   --Security
   --Labs
   --CTF
