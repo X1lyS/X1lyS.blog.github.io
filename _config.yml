@@ -28,7 +28,7 @@ collections:
   Fundamentals of network protocols:   
     output          : true
     permalink       : /:collection/:title/
-    sort_by         : date
+    order:
   portfolio:
     output          : true
     permalink       : /:collection/:title/
