@@ -1,10 +1,10 @@
 # 1. Site Settings
-title               : hacke notes
+title               : Hacker's Notes
 owner               : "X1ly?S"
 url                : "https://x1lys.github.io"
 baseurl            : "/X1lyS.blog.github.io"
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "X1ly?S Blog."
 markdown            : kramdown
 statement           : "Designed by DeerRIDER, All Rights Reserved"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
