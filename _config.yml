@@ -12,24 +12,27 @@ bgtext              : "$_POST['cmd']<?php>getshell<script>eval()GIF89a'1024'sele
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
 # Keep it null if you want to show items in alphabetic order.
-collection_order    : 
+collection_order : 
   [
+    "posts",
     "Fundamentals of Network Protocols",
     "Basics of Operating Systems",
-    "Basics of Operating Systems",
+    "Programming Languages",
     "OWASP TOP 10",
-    "tools",
-    "Dvwa",
-    "OWASP TOP 10",
-    "my_notes",
-    "portfolio",
+    "DVWA",
+    "Labs",
+    "CTF WP",
+    "Vulnerability Discovery",
+    "Internal Network Penetration Testing",
+    "Summay",
+    "Experience",
   ]
 collections:
-  Basics of Operating Systems:   
+  math:   
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-    alias           : "Basics of Operating Systemsematics"
+    alias           : "Mathematics"
   portfolio:
     output          : true
     permalink       : /:collection/:title/
@@ -37,17 +40,17 @@ collections:
       - portfolio3.md
       - portfolio2.md
       - portfolio1.md
-  Basics of Operating Systems:
+  album:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
-  OWASP TOP 10:
+  physics:
     output          : true
     permalink       : /:collection/:title/
-  tools:
+  biology:
     output          : true
     permalink       : /:collection/:title/
-  Dvwa:
+  finance:
     output          : true
     permalink       : /:collection/:title/
   my_notes:
@@ -55,7 +58,7 @@ collections:
     permalink       : /:collection/:title/
     # An alias should be given or the UNDERSCORE will appeared 
     alias           : "My Notes"
-   Fundamentals of Network Protocols:
+  posts:
     output          : true
 
 # 3. Comment settings（disqus.com）
