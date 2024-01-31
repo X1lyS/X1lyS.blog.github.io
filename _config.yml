@@ -2,7 +2,7 @@
 title               : X1ly?S Blog
 owner               : "X1ly?S"
 url                : "https://x1lys.github.io/X1lyS.blog.github.io/"
-baseurl            : "/X1lyS.blog.github.io/"
+baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
 description         : "The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries."
 markdown            : kramdown
