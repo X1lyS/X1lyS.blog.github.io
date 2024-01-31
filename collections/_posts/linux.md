@@ -1,3 +1,10 @@
+---
+title: Fundamentals of operating systems
+category: Security
+date: 2024-1-31
+---
+
+
 0x1 Linux基础
 0x01 命令提示符
 ┌──(kali㉿kali)-[~/Desktop]
