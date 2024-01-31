@@ -6,7 +6,7 @@ baseurl            : "/X1lyS.blog.github.io"
 permalink           : /:title/
 description         : "X1ly?S Blog."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "!hack!"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
@@ -60,26 +60,16 @@ defaults:
       encrypted_text      : false       # whether use encrytion function by default
       toc                 : true        # whether show table of content by default
       toc_level           : 3           # the toc depth by default
-      author              : "DeerRIDER" # author name by default
+      author              : "X1ly?S" # author name by default
       show_date           : true        # whether show date message by default
       category            :             # category by default
-      post_list           : false       # whether show list of post by default      
+      post_list           : true       # whether show list of post by default      
       comment             : true
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
-linkedin            : 
-github              : "just-test" 
-gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
-twitter             : "just-test"
-facebook            : "just-test"
-instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
-weibo               :
-      
+gitlab              : "https://github.com/X1lyS"
+website             : "https://x1lys.github.io/X1lyS.blog.github.io/"
 # 6. Where things are
 source              : .
 destination         : ./_site
