@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : hacke notes
 owner               : "X1ly?S"
-url                : "https://akiritsu.github.io"
+url                : "https://x1lys.github.io/X1lyS.blog.github.io/"
 baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
