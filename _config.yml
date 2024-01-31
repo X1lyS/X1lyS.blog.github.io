@@ -15,36 +15,16 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "posts",
-    "Fundamentals of network protocols",
-    "Fundamentals of operating systems",
-    "Fundamentals of programming languages",
-    "OWASP TOP 10",
+
     "Web Security",
     "Labs",
     "Burp Labs",
     "Hack!",
-    "vulnerability discovery",
-    "Penetration testing",
-    "Internal network penetration",
-    "Penetration testing",
+    
     "Summary"
   ]
 collections:
-  Fundamentals of network protocols:   
-    output          : true
-    permalink       : /:collection/:title/
-  Fundamentals of operating systems:
-    output          : true
-    permalink       : /:collection/:title/
-  Fundamentals of programming languages:
-    output          : true
-    permalink       : /:collection/:title/
-  Fundamentals of programming languages:
-    output          : true
-    permalink       : /:collection/:title/
-  OWASP TOP 10:
-    output          : true
-    permalink       : /:collection/:title/
+
   Web Security:
     output          : true
     permalink       : /:collection/:title/
@@ -57,22 +37,11 @@ collections:
   Hack!:
     output          : true
     permalink       : /:collection/:title/
-  vulnerability discovery:
-    output          : true
-    permalink       : /:collection/:title/
-  Penetration testing:
-    output          : true
-    permalink       : /:collection/:title/
-  Internal network penetration:
-    output          : true
-    permalink       : /:collection/:title/
-  Penetration testing:
-    output          : true
-    permalink       : /:collection/:title/
+
   Summary:
     output          : true
     permalink       : /:collection/:title/
-
+  
   posts:
     output          : true
 
