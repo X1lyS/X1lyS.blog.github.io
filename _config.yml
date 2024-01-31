@@ -1,13 +1,13 @@
 # 1. Site Settings
-title               : hack notes
+title               : X1ly?S Blog
 owner               : "X1ly?S"
 url                : "https://x1lys.github.io/X1lyS.blog.github.io/"
-baseurl            : "/X1lyS"
+baseurl            : "/X1lyS.blog.github.io"
 permalink           : /:title/
 description         : "The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries."
 markdown            : kramdown
-statement           : ""
-bgtext              : "$_POST['cmd']<?php>getshell<script>eval()GIF89a'1024'select and 1=2xss rce xxs sqlmap" # texts randomly displayed in background
+statement           : " "
+bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
