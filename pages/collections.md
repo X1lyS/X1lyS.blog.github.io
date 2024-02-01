@@ -3,8 +3,8 @@ layout: collections
 toc: false
 permalink: /collections
 collections:
-  --Posts
-  --PL
+  --Environment Setup and Other Configurations
+  --Network Protocol Fundamentals
   --Security
   --Labs
   --CTF
