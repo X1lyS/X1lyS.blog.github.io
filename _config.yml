@@ -22,8 +22,13 @@ collection_order    :
     "Hack",
     "Summary"
   ]
-collections:
-
+collections: 
+  Environment Setup and Other Configurations:
+    output          : true
+    permalink       : /:collection/:title/
+  Network Protocol Fundamentals:
+    output          : true
+    permalink       : /:collection/:title/
   Security:
     output          : true
     permalink       : /:collection/:title/
@@ -37,12 +42,6 @@ collections:
     output          : true
     permalink       : /:collection/:title/
   Summary:
-    output          : true
-    permalink       : /:collection/:title/
-  Network Protocol Fundamentals:
-    output          : true
-    permalink       : /:collection/:title/
-  Environment Setup and Other Configurations:
     output          : true
     permalink       : /:collection/:title/
 
