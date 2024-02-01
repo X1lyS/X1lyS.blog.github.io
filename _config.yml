@@ -14,8 +14,8 @@ bgtext              : "100100101110110111011000101010100110111010010110100101011
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
-    "Posts",
-    "PL",
+    "Environment",
+    "Language",
     "Security",
     "Labs",
     "CTF",
@@ -37,12 +37,14 @@ collections:
     output          : true
     permalink       : /:collection/:title/
   Summary:
+  
     output          : true
     permalink       : /:collection/:title/
-  PL:
+  
+  Language:
     output          : true
     permalink       : /:collection/:title/
-  Posts:
+  Environment:
     output          : true
     permalink       : /:collection/:title/
 
@@ -60,7 +62,7 @@ defaults:
       btn_text            : true        # whether show button text by default
       collection_list     : true        # whether show archive button by default
       home_btn            : true        # whether show home by default
-      maximize            : true        # whether show maximize button by default
+      maximize        7    : true        # whether show maximize button by default
       encrypted_text      : false       # whether use encrytion function by default
       toc                 : true        # whether show table of content by default
       toc_level           : 3           # the toc depth by default
@@ -78,7 +80,7 @@ website             : "https://x1lys.github.io/X1lyS.blog.github.io/"
 source              : .
 destination         : ./_site
 collections_dir     : collections
-plugins_dir         : src/_plugins # takes an array of strings and loads plugins in that order
+Languageugins_dir         : src/_plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : src/_layouts
 data_dir            : src/_data
 includes_dir        : src/_includes

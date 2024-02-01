@@ -3,8 +3,8 @@ layout: collections
 toc: false
 permalink: /collections
 collections:
-  --Posts
-  --PL
+  --Environment
+  --Language
   --Security
   --Labs
   --CTF
