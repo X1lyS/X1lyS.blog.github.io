@@ -14,21 +14,16 @@ bgtext              : "100100101110110111011000101010100110111010010110100101011
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
-    "Environment Setup and Other Configurations",
-    "Network Protocol Fundamentals",
+    "Posts",
+    "PL",
     "Security",
     "Labs",
     "CTF",
     "Hack",
     "Summary"
   ]
-collections: 
-  Environment Setup and Other Configurations:
-    output          : true
-    permalink       : /:collection/:title/
-  Network Protocol Fundamentals:
-    output          : true
-    permalink       : /:collection/:title/
+collections:
+
   Security:
     output          : true
     permalink       : /:collection/:title/
@@ -42,6 +37,12 @@ collections:
     output          : true
     permalink       : /:collection/:title/
   Summary:
+    output          : true
+    permalink       : /:collection/:title/
+  PL:
+    output          : true
+    permalink       : /:collection/:title/
+  Posts:
     output          : true
     permalink       : /:collection/:title/
 
