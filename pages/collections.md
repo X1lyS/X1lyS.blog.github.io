@@ -7,8 +7,10 @@ collections:
   --Basic
   --Language
   --Security
+  --Tools
   --Labs
   --CTF
   --Hack
-  --Summary 
+  --Summary
+  --Others 
 ---

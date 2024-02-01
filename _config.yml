@@ -18,10 +18,12 @@ collection_order    :
     "Basic",
     "Language",
     "Security",
+    "Tools",
     "Labs",
     "CTF",
     "Hack",
-    "Summary"
+    "Summary",
+    "Others"
   ]
 collections:
 
@@ -38,12 +40,17 @@ collections:
     output          : true
     permalink       : /:collection/:title/
   Summary:
-  
     output          : true
     permalink       : /:collection/:title/
   Language:
     output          : true
     permalink       : /:collection/:title/
+  Others:
+    output          : true
+    permalink       : /:collection/:title/  
+  Tools:
+    output          : true
+    permalink       : /:collection/:title/  
   Basic:
     output          : true
     permalink       : /:collection/:title/  
