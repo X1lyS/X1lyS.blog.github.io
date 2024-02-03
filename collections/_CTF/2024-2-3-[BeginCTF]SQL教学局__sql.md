@@ -1,5 +1,5 @@
 ---
-title: [BeginCTF]SQL教学局
+title: BeginCTF-SQL教学局
 category: CTF-Web-SQL
 date: 2024-2-3
 ---
