@@ -1,10 +1,10 @@
 ---
-title: Linux
-category: Fundamentals of operating systems
-date: 2024-2-1
+title: [BeginCTF]SQL教学局
+category: CTF-Web-SQL
+date: 2024-2-3
 ---
 
-source:[BeginCTF]SQL教学局
+> source:[BeginCTF]SQL教学局
 
 ## info
 
