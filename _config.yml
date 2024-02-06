@@ -2,7 +2,7 @@
 title               : Hacker's Notes
 owner               : "X1ly?S"
 url                : "https://x1lys.github.io"
-baseurl            : "/X1lyS..blog.github.io"
+baseurl            : "/X1lyS.blog.github.io"
 permalink           : /:title/
 description         : "X1ly?S Blog."
 markdown            : kramdown
