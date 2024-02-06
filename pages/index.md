@@ -45,13 +45,13 @@ permalink: /
 
 * [xss](https://x1lys.github.io/X1lyS.blog.github.io/Security/xxs/)
 
-### CTF
+> CTF
 
-> web
+web
 
 * [BeginCTF-SQL教学局](https://x1lys.github.io/X1lyS.blog.github.io/CTF/BeginCTF-SQL%E6%95%99%E5%AD%A6%E5%B1%80__sql/)
 
-> Misc
+Misc
 
 * [BeginCTF-Tupper](https://x1lys.github.io/X1lyS.blog.github.io/CTF/BeginCTF-Tupper_Misc/)
 
