@@ -17,10 +17,10 @@ Tupper’s self-referential formula（茶泊尔的自指公式）是一个以计
 
 ## EXP
 
-- 合并672个txt文件为一个可写脚本，或在线[合并文件工具]([https://uutool.cn/txt-merge/](https://uutool.cn/txt-merge/))
+- 合并672个txt文件为一个可写脚本，或在线[合并文件工具](https://uutool.cn/txt-merge/](https://uutool.cn/txt-merge/)
 - base64解码
 - 得到一串数字
-- [在线Tupper绘图]([https://tuppers-formula.ovh/](https://tuppers-formula.ovh/))
+- [在线Tupper绘图](https://tuppers-formula.ovh/](https://tuppers-formula.ovh/)
 
 ## Summary
 
