@@ -20,7 +20,8 @@ permalink: /
 > It's not because we can, that we do; but because we do, that we can.
 
 > The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries
-<br>
+
+
 ## Article navigation
 
 ### 环境搭建
