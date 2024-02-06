@@ -17,7 +17,7 @@ permalink: /
 ### 这里记录着一个从零开始的网络安全小白的挣扎与执着
 
 
-
+> 持续更新中......
 > It's not because we can, that we do; but because we do, that we can.
 
 > The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries
@@ -71,4 +71,4 @@ Misc
 
 * qq：2382247834
 
-* win: qcl731000
+* v: qcl731000
