@@ -31,6 +31,7 @@ permalink: /
 
 > 相关基础知识
 
+* [网络术语基础](https://x1lys.github.io/X1lyS.blog.github.io/Basic/%E7%BD%91%E7%BB%9C%E6%9C%AF%E8%AF%AD%E5%9F%BA%E7%A1%80/)
 * [Linux基础](https://x1lys.github.io/X1lyS.blog.github.io/Basic/Linux/)
 * [Docker基础](https://x1lys.github.io/X1lyS.blog.github.io/Basic/Docker/)
 * [常用操作或技术基础](https://x1lys.github.io/X1lyS.blog.github.io/Basic/%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E6%88%96%E6%8A%80%E6%9C%AF/)
