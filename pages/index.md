@@ -45,6 +45,7 @@ permalink: /
 > 安全知识
 
 * [xss](https://x1lys.github.io/X1lyS.blog.github.io/Security/xxs/)
+* [Git泄露](https://x1lys.github.io/X1lyS.blog.github.io/Security/Git%E6%B3%84%E9%9C%B2/)
 
 > CTF
 
