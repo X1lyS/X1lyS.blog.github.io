@@ -57,6 +57,10 @@ Misc
 
 * [BeginCTF-Tupper](https://x1lys.github.io/X1lyS.blog.github.io/CTF/BeginCTF-Tupper_Misc/)
 
+Crypro
+
+* [2016全国大学生信息安全竞赛-破译](https://x1lys.github.io/X1lyS.blog.github.io/CTF/2016%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%AB%9E%E8%B5%9B-%E7%A0%B4%E8%AF%91/)
+
 
 ## Tools navigation
 
