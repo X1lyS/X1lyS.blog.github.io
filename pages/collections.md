@@ -3,6 +3,7 @@ layout: collections
 toc: false
 permalink: /collections
 collections:
+  --Manuals
   --Environment
   --Basic
   --Language

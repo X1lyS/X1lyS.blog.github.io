@@ -14,6 +14,7 @@ bgtext              : "100100101110110111011000101010100110111010010110100101011
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
+    "Manuals",
     "Environment",
     "Basic",
     "Language",
@@ -27,6 +28,9 @@ collection_order    :
   ]
 collections:
 
+  Manuals:
+    output          : true
+    permalink       : /:collection/:title
   Security:
     output          : true
     permalink       : /:collection/:title/
