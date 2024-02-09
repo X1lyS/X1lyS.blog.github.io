@@ -17,13 +17,17 @@ permalink: /
 ### 这里记录着一个从零开始的网络安全小白的挣扎与执着
 
 
-> 持续更新中......
+> 持续更新中......<br>
+
 > It's not because we can, that we do; but because we do, that we can.
 
 > The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries
 
 
 ## Article navigation
+> 速查手册
+
+* [PHP手册](https://x1lys.github.io/X1lyS.blog.github.io/Manuals/PHP%E6%89%8B%E5%86%8C)
 
 > 环境搭建
 
