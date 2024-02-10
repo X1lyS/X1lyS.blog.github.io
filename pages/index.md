@@ -28,6 +28,7 @@ permalink: /
 > 速查手册
 
 * [PHP手册](https://x1lys.github.io/X1lyS.blog.github.io/Manuals/PHP%E6%89%8B%E5%86%8C)
+* [正则表达式手册](https://x1lys.github.io/X1lyS.blog.github.io/Manuals/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%89%8B%E5%86%8C)
 
 > 环境搭建
 
