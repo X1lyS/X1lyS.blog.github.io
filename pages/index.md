@@ -31,6 +31,10 @@ permalink: /
 * [PHP手册](https://x1lys.github.io/X1lyS.blog.github.io/Manuals/PHP%E6%89%8B%E5%86%8C)
 * [正则表达式手册](https://x1lys.github.io/X1lyS.blog.github.io/Manuals/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%89%8B%E5%86%8C)
 
+> 工具使用指南
+
+* (Clash入门指南)[https://x1lys.github.io/X1lyS.blog.github.io/Tools/Clash%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/] 
+
 > 环境搭建
 
 * [Vulhub搭建](https://x1lys.github.io/X1lyS.blog.github.io/Environment/Vulhub%E6%90%AD%E5%BB%BA/)
