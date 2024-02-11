@@ -33,7 +33,7 @@ permalink: /
 
 > 工具使用指南
 
-* (Clash入门指南)[https://x1lys.github.io/X1lyS.blog.github.io/Tools/Clash%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/] 
+* [Clash入门指南](https://x1lys.github.io/X1lyS.blog.github.io/Tools/Clash%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
 
 > 环境搭建
 
