@@ -59,6 +59,7 @@ web
 
 * [BeginCTF-SQL教学局](https://x1lys.github.io/X1lyS.blog.github.io/CTF/BeginCTF-SQL%E6%95%99%E5%AD%A6%E5%B1%80__sql/)
 * [鹤城杯2021-EasyP](https://x1lys.github.io/X1lyS.blog.github.io/CTF/%E9%B9%A4%E5%9F%8E%E6%9D%AF-2021-EasyP_Web/)
+* [GXYCTF2019 Ping Ping Ping](https://x1lys.github.io/X1lyS.blog.github.io/CTF/GXYCTF-2019-Ping-Ping-Ping_Web/)
 
 Misc
 
