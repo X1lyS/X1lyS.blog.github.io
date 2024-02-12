@@ -80,7 +80,12 @@ Crypro
 > 解码解密
 * [base64](https://base64.us/)
 
-## My achievements
+## My Footprint
+* [BeginCTF 2024]新生赛道
+
+第一次打CTF比赛啥也不会 第108名 题解数9
+
+![img](https://x1lys.github.io/blog/src/assets/img/f-1-1.png)
 
 ##  Articles of high quality link
  
