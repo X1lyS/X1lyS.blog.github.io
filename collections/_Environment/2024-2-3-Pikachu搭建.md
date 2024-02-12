@@ -6,7 +6,7 @@ date: 2024-2-3
 
 ## 下载靶场文件
 
-[https://pan.baidu.com/s/1EZaJjnJghofZ3WQltlrYLw?pwd=abcd&_at_=1707709885717#list/path=%2F&login_type=weixin](https://pan.baidu.com/s/1EZaJjnJghofZ3WQltlrYLw?pwd=abcd&_at_=1707709885717#list/path=%2F&login_type=weixin)
+[点击下载](https://pan.baidu.com/s/1EZaJjnJghofZ3WQltlrYLw?pwd=abcd&_at_=1707709885717#list/path=%2F&login_type=weixin)
 
 提取码abcd
 
