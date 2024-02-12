@@ -4,7 +4,6 @@ category: Building a Vulnerable Playground
 date: 2024-2-13
 ---
 
-
 ## 下载Vulhub漏洞靶场
 
 ```cpp
@@ -18,3 +17,5 @@ git clone https://github.com/vulhub/vulhub.git
 
 docker compose up -d #运行环境
 ```
+
+?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Vulhub搭建.md&fileType=undefined&fileExtension=md
