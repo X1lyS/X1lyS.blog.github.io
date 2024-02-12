@@ -22,6 +22,8 @@ permalink: /
 
 > The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries
 
+> 互联网的精神之一就是共享...... 
+
 > 持续更新中......
 
 
