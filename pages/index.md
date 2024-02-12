@@ -39,7 +39,9 @@ permalink: /
 
 > 环境搭建
 
-* [Vulhub搭建](https://x1lys.github.io/X1lyS.blog.github.io/Environment/Vulhub%E6%90%AD%E5%BB%BA/)
+* [基础环境搭建](https://x1lys.github.io/X1lyS.blog.github.io/Environment/%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+
+* [Pikachu搭建](https://x1lys.github.io/X1lyS.blog.github.io/Environment/Pikachu%E6%90%AD%E5%BB%BA/)
 
 > 相关基础知识
 
