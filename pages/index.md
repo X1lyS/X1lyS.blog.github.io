@@ -98,5 +98,3 @@ Crypro
 * qq：2382247834
 
 * v: qcl731000
-
-![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/temp.png)
