@@ -56,6 +56,7 @@ permalink: /
 
 * [xss](https://x1lys.github.io/X1lyS.blog.github.io/Security/xxs/)
 * [Git泄露](https://x1lys.github.io/X1lyS.blog.github.io/Security/Git%E6%B3%84%E9%9C%B2/)
+* [XML外部实体注入攻击](https://x1lys.github.io/X1lyS.blog.github.io/Security/XML%E5%A4%96%E9%83%A8%E5%AE%9E%E4%BD%93%E6%B3%A8%E5%85%A5%E6%94%BB%E5%87%BB/#xml%E5%A4%96%E9%83%A8%E5%AE%9E%E4%BD%93%E6%B3%A8%E5%85%A5%E6%94%BB%E5%87%BB)
 
 > CTF
 
