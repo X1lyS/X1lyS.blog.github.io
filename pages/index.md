@@ -18,9 +18,21 @@ permalink: /
 
 > Creation Time：2024-2-1<br>
 
-> It's not because we can, that we do; but because we do, that we can.
+> Burn the bed and the dreams I've never met
 
-> The hacker spirit is one of adventure, creation, and exploration, challenging traditional intellectual boundaries
+> 焚烧旧日温床与未梦之梦
+
+> Those wishes were never for granted
+
+> 以及荒谬绝伦的愿望
+
+> So burn the bed I'll face the wind and fill my head
+
+> 尽管燃烧吧，我独自面对狂风，昂首挺胸
+
+> Those wishes were never for granted
+
+> 与那些未梦之梦一起
 
 > 互联网的精神之一就是共享...... 
 
