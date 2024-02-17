@@ -16,7 +16,9 @@ permalink: /
 
 ### 这里记录着一个从零开始的网安小白的挣扎与执着
 
-> Creation Time：2024-2-1<br>
+> Creation Time：2024-2-1
+
+
 
 > Burn the bed and the dreams I've never met
 
@@ -33,10 +35,6 @@ permalink: /
 > Those wishes were never for granted
 
 > 与那些未梦之梦一起
-
-> 互联网的精神之一就是共享...... 
-
-> 持续更新中......
 
 
 ## Article navigation
