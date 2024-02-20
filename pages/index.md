@@ -121,6 +121,12 @@ Crypro
 
 ![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/f-1-1.png)
 
+* 第一次挖到真实SQL注入漏洞！激动！
+  
+对某注册资本5100w的企业的测试,并编写漏洞报告，提交给后台
+
+![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/002-hack-sql-first.png)
+
 ##  Articles of high quality link
  
 ## Friendship link
