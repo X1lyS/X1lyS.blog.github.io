@@ -83,6 +83,7 @@ permalink: /
 
 > 语言基础
 
+* [SQL](https://x1lys.github.io/X1lyS.blog.github.io/Language/SQL/)
 * [Python](https://x1lys.github.io/X1lyS.blog.github.io/Language/Python/)
 
 > 安全知识
