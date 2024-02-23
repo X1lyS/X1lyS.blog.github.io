@@ -133,10 +133,8 @@ Crypro
 某注册资本6600w的企业测试，获取到了后台管理员密码，但在我爆破后台时，运维检测到了，网站502异常被下了
 
 ![img](https://x1lys.github.io/X1lyS.blog.github.io/src/assets/img/003-hack-sql-6000w_502.png)
-
-##  Articles of high quality link
  
-## Friendship link
+## Reading notes
 
 ## Contact me
 
