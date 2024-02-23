@@ -24,6 +24,7 @@ collection_order    :
     "CTF",
     "Hack",
     "Summary",
+    "Reading notes",
     "Others"
   ]
 collections:
@@ -54,7 +55,10 @@ collections:
     permalink       : /:collection/:title/  
   Tools:
     output          : true
-    permalink       : /:collection/:title/  
+    permalink       : /:collection/:title/ 
+  Reading notes:
+    output          : true
+    permalink       : /:collection/:title/    
   Basic:
     output          : true
     permalink       : /:collection/:title/  
