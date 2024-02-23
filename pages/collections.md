@@ -13,5 +13,6 @@ collections:
   --CTF
   --Hack
   --Summary
+  --Reading notes
   --Others 
 ---
