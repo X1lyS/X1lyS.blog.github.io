@@ -115,7 +115,12 @@ Crypro
 > 解码解密
 * [base64](https://base64.us/)
 
+## Labs WP
+
+* [upload-labs](https://x1lys.github.io/X1lyS.blog.github.io/Labs/upload_labs/)
+
 ## My Footprint
+
 * [BeginCTF 2024]新生赛道
 
 第一次打CTF比赛啥也不会 第108名 题解数9
