@@ -1,4 +1,12 @@
-靶场地址：https://github.com/c0ny1/upload-labs
+---
+title: upload-labs
+category: Labs
+date: 2024-3-11
+---
+
+
+
+靶场地址：[点击下载](https://github.com/c0ny1/upload-labs)
 
 ## Less-1
 
