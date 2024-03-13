@@ -1,3 +1,9 @@
+---
+title: Security Misconﬁguration
+category: Web Security
+date: 2024-3-13
+---
+
 ## Apache解析漏洞
 
 ```
