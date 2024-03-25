@@ -148,7 +148,11 @@ Crypro
    
 ![图片](https://github.com/X1lyS/X1lyS.blog.github.io/assets/156589783/d73575bb-0769-423f-93ee-b146abd161fe)
 
+* 第一次拿下一整个数据库哈哈哈！提交了第一个严重高危漏洞！
 
+源于spring boot未授权访问漏洞，直接给它连接到了数据库，可以直接执行所有mysql命令，危害极大
+![截图20240325220350](https://github.com/X1lyS/X1lyS.blog.github.io/assets/156589783/fa63f542-4bf9-4f8a-8dbd-b07f1ee95559)
+![截图20240325220519](https://github.com/X1lyS/X1lyS.blog.github.io/assets/156589783/7b71619d-0a22-46c5-938f-52b6ee977dc3)
 
 ## Feelings
 
