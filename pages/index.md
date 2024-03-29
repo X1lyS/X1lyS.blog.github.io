@@ -154,6 +154,14 @@ Crypro
 ![截图20240325220350](https://github.com/X1lyS/X1lyS.blog.github.io/assets/156589783/fa63f542-4bf9-4f8a-8dbd-b07f1ee95559)
 ![截图20240325220519](https://github.com/X1lyS/X1lyS.blog.github.io/assets/156589783/7b71619d-0a22-46c5-938f-52b6ee977dc3)
 
+* 第一次对资产高达17.8亿的目标广交会测试，好难呜呜呜……
+  好不容易找到的洞全重复了，害
+  唯一的收获：拿到一张电子表格，有十几个账号密码，后台，管理，运维，ftp，测试等等
+  其中有一个网页被挂了黄色广告，我交了低危，结果还没到审核我的报告，这个洞就修复了？？！！
+  害，一句话，菜就多练！
+  
+![截图20240329120358](https://github.com/X1lyS/X1lyS.blog.github.io/assets/156589783/19b2332d-5b98-4d9d-b1d4-23ae2e399027)
+
 ## Feelings
 
 [杂感(一)](https://x1lys.github.io/X1lyS.blog.github.io/Feelings/%E6%9D%82%E6%84%9F(%E4%B8%80)/)
